@@ -1,28 +1,67 @@
 {
-  "posts": [
+  "descriptions": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Chuyên gia bảo hiểm",
+      "company": "Techcombank",
+      "skills": [
+        "Kỹ năng giao tiếp",
+        "Kiến thức tài chính"
+      ],
+      "experience": "3 năm kinh nghiệm",
+      "address": "Hà Nội",
+      "time": "Toàn thời gian",
+      "salary": "Thỏa thuận",
+      "logo": "./images/techcombank.png"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Fullstack Java developer",
+      "company": "FPT Software",
+      "skills": [
+        "Java",
+        "MySQL"
+      ],
+      "experience": "3 năm kinh nghiệm",
+      "address": "Hà Nội",
+      "time": "Toàn thời gian",
+      "salary": "Thỏa thuận",
+      "logo": "./images/fptsoft.png"
     },
     {
       "id": 3,
-      "title": "Post 3"
-    }
-  ],
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
+      "title": "Chuyên viên phát triển sản phẩm",
+      "company": "FPT Software",
+      "skills": [
+        "Java",
+        "MySQL"
+      ],
+      "experience": "3 năm kinh nghiệm",
+      "address": "Hà Nội",
+      "time": "Toàn thời gian",
+      "salary": "Thỏa thuận",
+      "logo": "./images/vnpay.png"
     },
     {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
+      "id": 4,
+      "title": "Chuyên viên phát triển sản phẩm",
+      "company": "FPT Software",
+      "skills": [
+        "Java",
+        "MySQL"
+      ],
+      "experience": "3 năm kinh nghiệm",
+      "address": "Hà Nội",
+      "time": "Toàn thời gian",
+      "salary": "Thỏa thuận",
+      "logo": "./images/vnpay.png"
+    }
+  ],
+  "account": [
+    {
+      "id": 1,
+      "username": "Nguyễn Văn A",
+      "job": "Lập trình viên frontend"
     }
   ],
   "profile": {
