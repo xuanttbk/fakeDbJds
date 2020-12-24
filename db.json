@@ -12,7 +12,7 @@
       "address": "Hà Nội",
       "time": "Toàn thời gian",
       "salary": "Thỏa thuận",
-      "logo": "./images/techcombank.png"
+      "logo": "https://fakeimg.pl/250x100/ff0000/?text=Techcombank"
     },
     {
       "id": 2,
@@ -26,7 +26,7 @@
       "address": "Hà Nội",
       "time": "Toàn thời gian",
       "salary": "Thỏa thuận",
-      "logo": "./images/fptsoft.png"
+      "logo": "https://fakeimg.pl/250x100/ff0000/?text=fptsoft"
     },
     {
       "id": 3,
@@ -40,7 +40,7 @@
       "address": "Hà Nội",
       "time": "Toàn thời gian",
       "salary": "Thỏa thuận",
-      "logo": "./images/vnpay.png"
+      "logo": "https://fakeimg.pl/250x100/ff0000/?text=vnpay"
     },
     {
       "id": 4,
@@ -54,7 +54,7 @@
       "address": "Hà Nội",
       "time": "Toàn thời gian",
       "salary": "Thỏa thuận",
-      "logo": "./images/vnpay.png"
+      "logo": "https://fakeimg.pl/250x100/ff0000/?text=vnpay.png"
     }
   ],
   "account": [
